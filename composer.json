@@ -1,0 +1,21 @@
+{
+    "name": "devpro/devpro-silex-demo",
+    "description": "Website demo of Silex framework",
+    "minimum-stability": "dev",
+    "authors": [
+        {
+            "name": "Bertrand THOMAS",
+            "email": "bertrand@devpro.fr"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.0",
+        "twig/twig": "1.*",
+        "twig/extensions": "*",
+        "symfony/yaml": "*",
+        "swiftmailer/swiftmailer": "*",
+        "silex/silex" : "1.0.*"
+    },
+    "require-dev": {
+    }
+}
