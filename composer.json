@@ -10,11 +10,16 @@
     ],
     "require": {
         "php": ">=5.3.0",
+        "silex/silex" : "1.0.*",
         "twig/twig": "1.*",
         "twig/extensions": "*",
+        "symfony/config": "2.1.*",
+        "symfony/translation": "2.1.*",
+        "symfony/twig-bridge": "2.1.*",
+        "doctrine/dbal": ">=2.1, <2.3",
+        "knplabs/repository-service-provider": "*",
         "symfony/yaml": "*",
-        "swiftmailer/swiftmailer": "*",
-        "silex/silex" : "1.0.*"
+        "swiftmailer/swiftmailer": "*"
     },
     "require-dev": {
     }

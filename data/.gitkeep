@@ -1,0 +1,27 @@
+# Build Folders
+bin
+obj
+
+# mstest test results
+TestResults
+
+# Local project files
+*.suo
+*.user
+*.Debug.cachefile
+*.webinfo
+*.Publish.xml
+
+IgualWebApp/Upload/log
+IgualWebApp/log/*
+
+IgualWebApp/Resources/files-mediatheque
+IgualWebApp/Resources/product-images
+IgualWebApp/Resources/product-pdf
+IgualWebApp/Resources/images
+
+IgualWebApp/App_Data/*.xml
+
+IgualCons/App_Data/*
+
+IgualOldApp/Upload/log/*

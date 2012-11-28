@@ -16,3 +16,6 @@ app/config/parameters.yml
 .buildpath
 .project
 .settings/
+
+# Data files
+data/*.db
